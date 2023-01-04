@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Nama saya Muhammad Faridz
 <!--
 **fardz2/fardz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
