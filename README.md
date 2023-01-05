@@ -2,7 +2,7 @@
 Nama saya Muhammad Faridz
 
 🌱 saya belajar di Telkom University
-Keahlian saya yaitu bisa menggunakan python, C++, HTML, CSS, JAVASCRIPT
+<br> Keahlian saya yaitu bisa menggunakan python, C++, HTML, CSS, JAVASCRIPT
 
 
 
