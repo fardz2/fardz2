@@ -1,5 +1,12 @@
 ### Hi there 👋
 Nama saya Muhammad Faridz
+
+🌱 saya belajar di Telkom University
+Keahlian saya yaitu bisa menggunakan python, C++, HTML, CSS, JAVASCRIPT
+
+
+
+
 <!--
 **fardz2/fardz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
